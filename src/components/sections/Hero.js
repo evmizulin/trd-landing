@@ -73,7 +73,7 @@ const Hero = ({
                 <div className="reveal-from-bottom" data-reveal-delay="600">
                   <ButtonGroup>
                     <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                      Get started
+                      Buy the bot
                     </Button>
                     <Button
                       tag="a"
@@ -81,7 +81,7 @@ const Hero = ({
                       wideMobile
                       href="https://github.com/cruip/open-react-template/"
                     >
-                      View on Github
+                      Bot statistics
                     </Button>
                   </ButtonGroup>
                 </div>
