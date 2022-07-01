@@ -69,8 +69,6 @@ const Header = ({
 
   const classes = classNames('site-header', bottomOuterDivider && 'has-bottom-divider', className)
 
-  return null
-
   return (
     <header {...props} className={classes}>
       <div className="container">
